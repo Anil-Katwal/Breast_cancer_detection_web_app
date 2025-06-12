@@ -4,9 +4,13 @@ A simple and intuitive web application that predicts whether a tumor is **malign
 
 ---
 
-## 🚀 Demo
+## 🚀 Demo of Web App
+<img width="622" alt="Screenshot 2025-06-12 at 11 42 49 AM" src="https://github.com/user-attachments/assets/20376f2c-b14e-43b4-97a3-8da5a8b6a782" />
 
-![Web App Demo Screenshot](screenshot.png)  
+<img width="605" alt="Screenshot 2025-06-12 at 11 47 30 AM" src="https://github.com/user-attachments/assets/5037fdb8-5ae3-4a01-a2b9-373295f68557" />
+
+
+
 _Example prediction from the app (optional image)_
 
 ---
@@ -37,7 +41,8 @@ _Example prediction from the app (optional image)_
 - Flask (Web framework)
 - HTML/CSS (Frontend)
 
----
+## Project Structure
+<img width="755" alt="Screenshot 2025-06-12 at 11 50 58 AM" src="https://github.com/user-attachments/assets/2d01e567-a667-4c85-9cea-5fd59bb809b0" />
 
 ## ⚙️ Installation & Running the App
 
